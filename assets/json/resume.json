@@ -1,3 +1,4 @@
+
 {
   "basics": {
     "name": "Yuze Sui",
@@ -75,9 +76,9 @@
       "releaseDate": "2023-03-01",
       "url": "https://doi.org/10.1093/pnasnexus/pgad028",
       "summary": "Examines how China's food safety regulatory system evolved and the role of the Chinese Communist Party in shaping transparency mechanisms."
-    }
+    },
     {
-      "name": "How Digital Contact Tracing Slowed Covid-19 in East Asia ",
+      "name": "How Digital Contact Tracing Slowed Covid-19 in East Asia",
       "publisher": "Harvard Business Review",
       "releaseDate": "2020-04-15",
       "url": "https://hbr.org/2020/04/how-digital-contact-tracing-slowed-covid-19-in-east-asia",
@@ -137,4 +138,3 @@
   "awards": [],
   "volunteer": []
 }
-
