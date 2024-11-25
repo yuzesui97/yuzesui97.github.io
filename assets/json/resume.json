@@ -47,8 +47,8 @@
       "institution": "Stanford University",
       "location": "Stanford, California",
       "url": "https://www.stanford.edu/",
-      "area": "Sociology, Ph.D. Minor in Management Science and Engineering",
-      "studyType": "Ph.D.",
+      "area": "Sociology,",
+      "studyType": "Ph.D. (Minor in Management Science and Engineering)",
       "startDate": "2021-09-01",
       "endDate": "2026-06-01",
       "courses": [
@@ -73,7 +73,7 @@
     {
       "name": "The Chinese Communist Party and regulatory transparency in China’s food industry",
       "publisher": "PNAS Nexus",
-      "releaseDate": "2023-01-01",
+      "releaseDate": "2023-03-01",
       "url": "https://doi.org/10.1093/pnasnexus/pgad028",
       "summary": "Examines how China's food safety regulatory system evolved and the role of the Chinese Communist Party in shaping transparency mechanisms."
     }
