@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Yuze Sui",
-    "bio": "Ph.D. Candidate in Sociology at Stanford University",
     "image": "",
     "email": "yuzesui@stanford.edu",
     "phone": "",
@@ -38,7 +37,7 @@
       "highlights": [
         "Analyzed career trajectories in creative industries using survival analysis and network methods.",
         "Developed computational approaches for tracing the emergence of scientific concepts.",
-        "Studied organizational responses to public opinion in the digital era."
+        "Studied the organizational logic of personnel management in Chinese Bureaucracy."
       ]
     }
   ],
@@ -47,8 +46,8 @@
       "institution": "Stanford University",
       "location": "Stanford, California",
       "url": "https://www.stanford.edu/",
-      "area": "Sociology,",
-      "studyType": "Ph.D. (Minor in Management Science and Engineering)",
+      "area": "Sociology (Minor in Management Science and Engineering)",
+      "studyType": "Ph.D.",
       "startDate": "2021-09-01",
       "endDate": "2026-06-01",
       "courses": [
@@ -76,6 +75,13 @@
       "releaseDate": "2023-03-01",
       "url": "https://doi.org/10.1093/pnasnexus/pgad028",
       "summary": "Examines how China's food safety regulatory system evolved and the role of the Chinese Communist Party in shaping transparency mechanisms."
+    }
+    {
+      "name": "How Digital Contact Tracing Slowed Covid-19 in East Asia ",
+      "publisher": "Harvard Business Review",
+      "releaseDate": "2020-04-15",
+      "url": "https://hbr.org/2020/04/how-digital-contact-tracing-slowed-covid-19-in-east-asia",
+      "summary": "East Asian countries have had striking success flattening the Covid-19 curve. The key is aggressive application of mobile contact-tracing technologies and a collectivist spirit that encourages a civic-minded embrace of and a more willing compliance with governments’ infection control efforts. These technologies work, but require privacy violations that western democracies may be unwilling to accept. Technologies that preserve privacy while permitting effective tracing may be part of the solution."
     }
   ],
   "skills": [
@@ -131,11 +137,6 @@
   "awards": [],
   "volunteer": [],
   "interests": [
-    {
-      "name": "Computational Social Science",
-      "keywords": [
-        "Organizations",
-        "Labor Markets"
       ]
     }
   ]
