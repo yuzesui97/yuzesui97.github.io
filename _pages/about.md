@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-permalink: 
+permalink: /
 subtitle: <a href='#'>Affiliations</a>. Stanford University. Contacts. Research Interests.
 
 profile:
