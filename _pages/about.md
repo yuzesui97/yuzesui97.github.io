@@ -3,8 +3,8 @@ layout: about
 title: About Me
 permalink: /
 subtitle: >
-  <a href='#'>Affiliations</a>. <a href='https://sociology.stanford.edu/' target='_blank'>Stanford Sociology</a>.
-  <a href='#'>Email</a>: <a href='mailto:yuzesui@stanford.edu'>yuzesui@stanford.edu</a>.
+  Affiliations. <a href='https://sociology.stanford.edu/' target='_blank'>Stanford Sociology</a>.
+  Email: <a href='mailto:yuzesui@stanford.edu'>yuzesui@stanford.edu</a>.
 
 profile:
   align: right
