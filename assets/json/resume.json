@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Yuze Sui",
-    "label": "Ph.D. Candidate",
+    "bio": "Ph.D. Candidate in Sociology at Stanford University",
     "image": "",
     "email": "yuzesui@stanford.edu",
     "phone": "",
-    "url": "https://yuzesui97.github.io/",
+    "website": "https://yuzesui97.github.io/",
     "summary": "4th-Year Ph.D. Candidate in Sociology with a Ph.D. Minor in Management Science and Engineering at Stanford University, specializing in computational social science, organizations, and labor markets.",
     "location": {
       "address": "450 Jane Stanford Way",
