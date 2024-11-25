@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Stanford University. Contacts. Research Interests.
+subtitle: <a href='#'>Affiliations</a>. Stanford University.
 
 profile:
   align: right
