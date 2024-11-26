@@ -24,14 +24,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ## Biography
-I am **Yuze Sui**, a 4th-year Ph.D. Candidate in Sociology with a Ph.D. Minor in Management Science and Engineering at Stanford University. My research focuses on **organizations**, **labor markets**, and **computational social science**. I investigate the emergence and diffusion of social structures, policies, and ideas using advanced computational techniques.
+I am **Yuze Sui**, a 4th-year Ph.D. Candidate in Sociology with a Ph.D. Minor in Management Science and Engineering at Stanford University. My research focuses on **organizations**, **labor markets**, **careers**, and **computational social science**. I investigate the emergence and diffusion of social structures, policies, and scientific ideas using advanced computational techniques. My work has been featured in prestigious outlets, including PNAS Nexus and the Harvard Business Review. 
 
 ## Affiliations
 - Ph.D. Candidate, Sociology, Stanford University
 - Ph.D. Minor, Management Science and Engineering, Stanford University
-
-## Contact
-- **Email**: [yuzesui@stanford.edu](mailto:yuzesui@stanford.edu)  
-- **Twitter**: [@YuzeSui](https://twitter.com/YuzeSui)  
-- **LinkedIn**: [linkedin.com/in/yuze-sui](https://linkedin.com/in/yuze-sui)
-
