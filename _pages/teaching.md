@@ -15,11 +15,6 @@ nav_order: 4
 * [Syllabus (PDF)](/assets/SOC 10 syllabus.pdf)
 * [Course Website](https://yuzesui97.github.io/soc10_2025spring/)
 
-> Intro level course on computatational social science that covers topics like machine learning, network analysis, 
-> and text analysis. Students complete a mini-research project.
-
----
-
 ### SOC 382 –  Sociological Methodology II (PhD-Level Course)
 *Role: Teaching Assistant • Winter 2023*
 
