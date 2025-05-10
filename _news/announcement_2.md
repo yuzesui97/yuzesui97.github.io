@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2025 ASA Presentation
-date: 2025-04 
+date: 2025-04
 inline: true
 related_posts: false
 ---
