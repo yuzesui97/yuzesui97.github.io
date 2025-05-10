@@ -13,7 +13,7 @@ nav_order: 4
 *Role: Instructor of Record • Spring 2025*
 
 * [Syllabus (PDF)](/assets/teaching/soc10_2025/syllabus.pdf)
-* [GitHub repo](https://github.com/your-repo/soc10_2025)
+* [Course Website]([https://github.com/your-repo/soc10_2025](https://yuzesui97.github.io/soc10_2025spring/))
 
 > Intro level course on computatational social science that covers topics like machine learning, network analysis, 
 > and text analysis. Students complete a mini-research project.
