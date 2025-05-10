@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Occupational Structure in the U.S. Labor Market
