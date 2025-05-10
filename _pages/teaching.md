@@ -6,7 +6,6 @@ description: My selected teaching experience
 nav: true
 nav_order: 4
 ---
-
 ## Stanford University
 
 ### **SOC 10 – Introduction to Computational Social Science**  
