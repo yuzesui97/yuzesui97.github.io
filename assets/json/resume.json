@@ -45,7 +45,7 @@
   "education": [
     {
       "institution": "Stanford University",
-      "location": "Stanford, California",
+      "location": "Stanford, CA",
       "url": "https://www.stanford.edu/",
       "area": "Sociology (Minor in Management Science and Engineering)",
       "studyType": "Ph.D.",
@@ -60,7 +60,7 @@
     },
     {
       "institution": "Tufts University",
-      "location": "Medford, Massachusetts",
+      "location": "Medford, MA",
       "url": "https://www.tufts.edu/",
       "area": "Mathematics and International Relations",
       "studyType": "B.S.",
@@ -70,6 +70,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "What the Research on Chinese Bureaucracy Can Do for Organiza-
+tion Theory?",
+      "publisher": "Management and Organization Review",
+      "releaseDate": "2025-05-01",
+      "summary": "Discuss how the study of Chinese organizations can contirbute to the general organizational theory in sociology and management."
+    },
     {
       "name": "The Chinese Communist Party and regulatory transparency in China’s food industry",
       "publisher": "PNAS Nexus",
@@ -104,7 +111,7 @@
     {
       "name": "Research Design",
       "level": "Advanced",
-      "keywords": ["Causal Inference", "Survey Design", "RCTs", "A/B Testing"]
+      "keywords": ["A/B Testing", "Causal Inference", "Online Survey Design"]
     }
   ],
   "languages": [
@@ -118,6 +125,15 @@
     }
   ],
   "projects": [
+    {
+      "name": "Occupational Structure in the U.S. Labor Market",
+      "summary": "Developed scalable Python pipelines that processed 200 M+ LinkedIn profiles, applying NLP techniques to clean text and map self-reported job titles to official SOC occupation codes.
+       Trained models on 120 M+ individual career sequences to predict when workers switch occupations, uncovering key demographic and skill correlates of mobility.",
+      "highlights": ["Using large-scale LinkedIn data to map and predict occupational mobility."],
+      "startDate": "2024-09-01",
+      "endDate": "Present",
+      "url": ""
+    },
     {
       "name": "Career Trajectories in Creative Industries",
       "summary": "Studied career patterns among Hollywood professionals and musicians using survival and network analysis.",
