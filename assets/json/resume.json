@@ -126,8 +126,8 @@
   "projects": [
     {
       "name": "Occupational Structure in the U.S. Labor Market",
-      "summary": "Trained models on 120 M+ individual career sequences to predict when workers switch occupations, uncovering key demographic and skill correlates of mobility.",
-      "highlights": ["Using large-scale LinkedIn data to map and predict occupational mobility."],
+      "summary": "Using large-scale LinkedIn data to map and predict occupational mobility.",
+      "highlights": ["Trained models on 120 M+ individual career sequences to predict when workers switch occupations, uncovering key demographic and skill correlates of mobility."],
       "startDate": "2024-09-01",
       "endDate": "Present",
       "url": ""
