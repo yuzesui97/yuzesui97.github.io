@@ -89,10 +89,15 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
-      - name: Purge unused CSS 🧹
+      - name: Purge unused CSS
         run: |
-          npm install -g purgecss
-          purgecss -c purgecss.config.js
+          npm config set fetch-retries 3
+          npm config set fetch-retry-mintimeout 10000
+          npm config set fetch-retry-maxtimeout 60000
+          npm install -g purgecss@4.1.3
+          purgecss --css _site/assets/main.css \
+                   --content _site/**/*.html \
+                   --output _site/assets
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
