@@ -15,8 +15,7 @@ nav_order: 4
 [Syllabus (PDF)](/assets/SOC%2010%20syllabus.pdf) • [Course website](https://yuzesui97.github.io/soc10_2025spring/)  
 Required for the Sociology (B.A.), Data Science (B.A.), and Symbolic Systems (B.S.) majors.
 
-- **Course evaluation:** *TBD*  
-- **Selected student comments:** *TBD*  
+- **Course evaluation:** 4.49/5 (School Average: 4.35)
 
 ---
 
