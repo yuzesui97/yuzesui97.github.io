@@ -9,21 +9,25 @@ nav_order: 4
 
 ## Stanford University
 
-### Instructor of Record
-#### **SOC 10 – Introduction to Computational Social Science**  
-*Spring 2025*  
-[Syllabus (PDF)](/assets/SOC%2010%20syllabus.pdf) • [Course website](https://yuzesui97.github.io/soc10_2025spring/)  
-Required for the Sociology (B.A.), Data Science (B.A.), and Symbolic Systems (B.S.) majors.
+### Instructor of Record  
+**SOC 10 – Introduction to Computational Social Science**  
+*Spring 2025*  
+[**Syllabus (PDF)**](/assets/SOC%2010%20syllabus.pdf) | [**Course Website**](https://yuzesui97.github.io/soc10_2025spring/)  
+<small>Required for Sociology (B.A.), Data Science (B.A.), and Symbolic Systems (B.S.) majors.</small>
 
-- **Course evaluation:** 4.49/5 (School Average: 4.35)
+> **Course evaluation:** 4.49 / 5 <small>(School average 4.35)</small>
 
 ---
 
-### Teaching Assistant
+### Teaching Assistant Experience
 
-| Course | Instructor(s) | Term(s) | Responsibilities |
-| --- | --- | --- | --- |
-| **SOC 126/226 – Introduction to Social Network Analysis** | Xueguang Zhou; Colin Peterson | Spring 2020, Spring 2021, Winter 2024 | Led weekly R labs; provided final‑project guidance |
-| **SOC 114/214 – Economic Sociology** | Mark Granovetter | Autumn 2023 | Facilitated discussion sections; graded assignments |
-| **SOC 382 – Sociological Methodology II (Ph.D.)** | Michelle Jackson | Winter 2023 | Ran labs on advanced statistics; assisted with problem sets |
-| **SOC 381 – Sociological Methodology I (Ph.D.)** | Sasha Shen Johfre | Autumn 2022 | Ran labs on foundational statistics; assisted with problem sets |
+| Course | Instructor(s) | Term(s) | Core Responsibilities |
+| :--- | :--- | :--- | :--- |
+| **SOC 126/226 – Introduction to Social Network Analysis** | Xueguang Zhou & Colin Peterson | Spring 2020,<br>Spring 2021,<br>Winter 2024 | Led weekly R labs; mentored final-project teams |
+| **SOC 114/214 – Economic Sociology** | Mark Granovetter | Autumn 2023 | Facilitated discussion sections; graded written assignments |
+| **SOC 382 – Sociological Methodology II (Ph.D.)** | Michelle Jackson | Winter 2023 | Conducted labs on advanced statistics; designed problem-set solutions |
+| **SOC 381 – Sociological Methodology I (Ph.D.)** | Sasha Shen Johfre | Autumn 2022 | Ran labs on foundational statistics; supported homework reviews |
+
+---
+
+*Last updated: {{ "now" | date: "%B %Y" }}*
