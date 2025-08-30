@@ -67,7 +67,7 @@
       ]
     }
   ],
-  "publications": [
+  "selective publications": [
     {
       "name": "What the Research on Chinese Bureaucracy Can Do for Organization Theory?",
       "publisher": "Management and Organization Review",
@@ -122,7 +122,7 @@
       "fluency": "Native Speaker"
     }
   ],
-  "projects": [
+  "onging projects": [
     {
       "name": "Occupational Structure in the U.S. Labor Market",
       "summary": "Using large-scale LinkedIn data to map and predict occupational mobility.",
