@@ -6,7 +6,7 @@
     "email": "yuzesui@stanford.edu",
     "phone": "",
     "website": "https://yuzesui97.github.io/",
-    "summary": "4th-Year Ph.D. Candidate in Sociology with a Ph.D. Minor in Management Science and Engineering at Stanford University, specializing in computational social science, organizations, and labor markets.",
+    "summary": "5th-Year Ph.D. Candidate in Sociology with a Ph.D. Minor in Management Science and Engineering at Stanford University, specializing in computational social science, organizations, and labor markets.",
     "location": {
       "address": "450 Jane Stanford Way",
       "postalCode": "94305",
@@ -27,21 +27,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Stanford University",
-      "position": "Ph.D. Candidate in Sociology",
-      "url": "https://sociology.stanford.edu/",
-      "startDate": "2021-09-01",
-      "endDate": "Present",
-      "summary": "Researching organizations, labor markets, and computational social science using machine learning, network analysis, and natural language processing.",
-      "highlights": [
-        "Analyzed career trajectories in creative industries using survival analysis and network methods.",
-        "Developed computational approaches for tracing the emergence of scientific concepts.",
-        "Studied the organizational logic of personnel management in Chinese Bureaucracy."
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "Stanford University",
@@ -69,11 +54,25 @@
       "score": "Magna Cum Laude"
     }
   ],
+  "professional experience": [
+    {
+      "name": "Two Sigma Investments, LP",
+      "position": "Data Science Intern",
+      "url": "https://www.twosigma.com/",
+      "startDate": "2025-06-16",
+      "endDate": "2025-08-22",
+      "summary": "Feature Modeler with Alternative Data.",
+      "highlights": [
+        "Constructed predicitve features from large-scale datasets using economic hypotheses"
+      ]
+    }
+  ],
   "publications": [
     {
       "name": "What the Research on Chinese Bureaucracy Can Do for Organization Theory?",
       "publisher": "Management and Organization Review",
       "releaseDate": "2025-05-01",
+      "url": "https://www.cambridge.org/core/journals/management-and-organization-review/article/what-can-the-research-on-chinese-bureaucracy-do-for-organization-theory/F7CD283D1CAD14E38A075C45AF8B1733",
       "summary": "Discuss how the study of Chinese organizations can contirbute to the general organizational theory in sociology and management."
     },
     {
@@ -110,7 +109,7 @@
     {
       "name": "Research Design",
       "level": "Advanced",
-      "keywords": ["A/B Testing", "Causal Inference", "Online Survey Design"]
+      "keywords": ["A/B Testing", "Online Survey Design"]
     }
   ],
   "languages": [
