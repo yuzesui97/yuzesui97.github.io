@@ -1,12 +1,9 @@
-
 {
   "basics": {
     "name": "Yuze Sui",
-    "image": "",
     "email": "yuzesui@stanford.edu",
-    "phone": "",
     "website": "https://yuzesui97.github.io/",
-    "summary": "5th-Year Ph.D. Candidate in Sociology with a Ph.D. Minor in Management Science and Engineering at Stanford University, specializing in computational social science, organizations, and labor markets.",
+    "summary": "Ph.D. Candidate in Sociology with a Ph.D. Minor in Management Science and Engineering at Stanford University, specializing in computational social science, organizations, and labor markets.",
     "location": {
       "address": "450 Jane Stanford Way",
       "postalCode": "94305",
@@ -54,29 +51,29 @@
       "score": "Magna Cum Laude"
     }
   ],
-  "professional experience": [
+  "work": [
     {
       "name": "Two Sigma Investments, LP",
       "position": "Data Science Intern",
       "url": "https://www.twosigma.com/",
       "startDate": "2025-06-16",
       "endDate": "2025-08-22",
-      "summary": "Feature Modeler with Alternative Data.",
+      "summary": "Feature modeler with alternative data.",
       "highlights": [
-        "Constructed predicitve features from large-scale datasets using economic hypotheses"
+        "Constructed predictive features from large-scale datasets using economic hypotheses"
       ]
     }
   ],
-  "selective publications": [
+  "publications": [
     {
       "name": "What the Research on Chinese Bureaucracy Can Do for Organization Theory?",
       "publisher": "Management and Organization Review",
       "releaseDate": "2025-05-01",
       "url": "https://www.cambridge.org/core/journals/management-and-organization-review/article/what-can-the-research-on-chinese-bureaucracy-do-for-organization-theory/F7CD283D1CAD14E38A075C45AF8B1733",
-      "summary": "Discuss how the study of Chinese organizations can contirbute to the general organizational theory in sociology and management."
+      "summary": "Discusses how the study of Chinese organizations can contribute to general organizational theory in sociology and management."
     },
     {
-      "name": "The Chinese Communist Party and regulatory transparency in China’s food industry",
+      "name": "The Chinese Communist Party and Regulatory Transparency in China’s Food Industry",
       "publisher": "PNAS Nexus",
       "releaseDate": "2023-03-01",
       "url": "https://doi.org/10.1093/pnasnexus/pgad028",
@@ -87,7 +84,7 @@
       "publisher": "Harvard Business Review",
       "releaseDate": "2020-04-15",
       "url": "https://hbr.org/2020/04/how-digital-contact-tracing-slowed-covid-19-in-east-asia",
-      "summary": "East Asian countries have had striking success flattening the Covid-19 curve. The key is aggressive application of mobile contact-tracing technologies and a collectivist spirit that encourages a civic-minded embrace of and a more willing compliance with governments’ infection control efforts. These technologies work, but require privacy violations that western democracies may be unwilling to accept. Technologies that preserve privacy while permitting effective tracing may be part of the solution."
+      "summary": "Explains how East Asian countries applied mobile contact-tracing technologies and civic-minded compliance to flatten the Covid-19 curve."
     }
   ],
   "skills": [
@@ -104,7 +101,7 @@
     {
       "name": "Programming",
       "level": "Proficient",
-      "keywords": ["Python", "R", "MATLAB", "STATA", "SQL"]
+      "keywords": ["Python", "R", "MATLAB", "Stata", "SQL"]
     },
     {
       "name": "Research Design",
@@ -122,30 +119,34 @@
       "fluency": "Native Speaker"
     }
   ],
-  "onging projects": [
+  "projects": [
     {
       "name": "Occupational Structure in the U.S. Labor Market",
       "summary": "Using large-scale LinkedIn data to map and predict occupational mobility.",
-      "highlights": ["Developed scalable Python pipelines that processed 200 M+ LinkedIn profiles, applying NLP techniques to clean text and map self-reported job titles to official SOC occupation codes.", "Trained models on 120 M+ individual career sequences to predict when workers switch occupations, uncovering key demographic and skill correlates of mobility."],
+      "highlights": [
+        "Developed scalable Python pipelines that processed 200M+ LinkedIn profiles, applying NLP techniques to clean text and map self-reported job titles to official SOC occupation codes.",
+        "Trained models on 120M+ individual career sequences to predict occupation switching, uncovering key demographic and skill correlates of mobility."
+      ],
       "startDate": "2024-09-01",
-      "endDate": "Present",
-      "url": ""
+      "endDate": "Present"
     },
     {
       "name": "Career Trajectories in Creative Industries",
       "summary": "Studied career patterns among Hollywood professionals and musicians using survival and network analysis.",
-      "highlights": ["Analyzed data on 10k+ Hollywood actors/producers and musicians."],
+      "highlights": [
+        "Analyzed data on 10k+ Hollywood actors, producers, and musicians."
+      ],
       "startDate": "2022-09-01",
-      "endDate": "Present",
-      "url": ""
+      "endDate": "Present"
     },
     {
       "name": "Emergence and Diffusion of Scientific Concepts",
       "summary": "Developed computational techniques to trace the emergence of scientific concepts in over 500k publications.",
-      "highlights": ["Used Python and machine learning for large-scale text analysis."],
+      "highlights": [
+        "Applied machine learning and large-scale text analysis in Python."
+      ],
       "startDate": "2022-09-01",
-      "endDate": "Present",
-      "url": ""
+      "endDate": "Present"
     }
   ],
   "awards": [],
