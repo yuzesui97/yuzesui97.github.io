@@ -17,6 +17,11 @@ nav_order: 4
 <small>Required for Sociology (B.A.), Data Science (B.A.), and Symbolic Systems (B.S.) majors.</small>  
 <small><strong>Course Evaluation:</strong> 4.49 / 5 (School of Humanities & Sciences Avg: 4.35)</small>
 
+#### Selected Student Feedback
+> *“Enjoyable class. Yuze was a fun instructor, and the R skills are useful and applicable—scraping, calls to APIs, ML models. Probably a little more difficult with no coding background, but the website was very helpful for labs.”*
+
+> *“I would highly recommend taking this class if you are interested in the intersection of data science and social sciences. Professor Sui was very engaging and approachable, and truly wanted all of his students to succeed to the best of their abilities. This class provided me with a lot of tangible skills in which I have already implemented into other classes, which is highly empowering.”*
+
 ---
 
 ### Teaching Assistant  
